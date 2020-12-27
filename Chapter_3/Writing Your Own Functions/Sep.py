@@ -1,0 +1,1 @@
+print("giraffe", "cat", "dog", sep = "fucker")
